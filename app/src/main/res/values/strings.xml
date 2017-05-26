@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="introduction">Introduction:</string>
+    <string name="name">Parth R. Pandya</string>
+    <string name="degree">B.E. (Computer Engineering)</string>
+    <string name="mobile">Mobile No: 9687925548</string>
+    <string name="email">Email: parthrpandya98@gmail.com</string>
+    <string name="academic">Academic:</string>
+    <string name="course">Course:</string>
+    <string name="passing_year">Passing year:</string>
+    <string name="skills">Skills:</string>
+</resources>
